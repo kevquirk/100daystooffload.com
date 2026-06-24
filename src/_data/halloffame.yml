@@ -3,6 +3,12 @@
 # date-last-completed = most recent completion date
 # years-completed = calendar years in which you completed the challenge
 
+- name: Brennan Kenneth Brown
+  link: https://brennan.day
+  date-last-completed: June 2026
+  completions: 2
+  years-completed: 2025, 2026
+
 - name: Dan Q
   link: https://danq.me
   date-last-completed: April 2026
@@ -20,12 +26,6 @@
   date-last-completed: February 2026
   completions: 1
   years-completed: 2026
-
-- name: Brennan Kenneth Brown
-  link: https://brennan.day
-  date-last-completed: June 2026
-  completions: 2
-  years-completed: 2025, 2026
 
 - name: Daniel Brüggemann
   link: https://barfooz.xyz

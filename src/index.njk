@@ -59,7 +59,7 @@ image: /assets/images/feature.webp
 </div>
 
 <div id="hof-list">
-{% for item in halloffame %}
+{% for item in halloffame | sortHallOfFame %}
   {% if item.completions >= 6 %}{% set tier = "diamond" %}
   {% elif item.completions >= 4 %}{% set tier = "gold" %}
   {% elif item.completions >= 2 %}{% set tier = "silver" %}
