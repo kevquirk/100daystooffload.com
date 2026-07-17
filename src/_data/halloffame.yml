@@ -3,6 +3,12 @@
 # date-last-completed = most recent completion date
 # years-completed = calendar years in which you completed the challenge
 
+- name: Emma Goto
+  link: https://www.emgoto.com
+  date-last-completed: July 2026
+  completions: 1
+  years-completed: 2026
+
 - name: Brennan Kenneth Brown
   link: https://brennan.day
   date-last-completed: June 2026
