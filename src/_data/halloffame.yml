@@ -3,6 +3,13 @@
 # date-last-completed = most recent completion date
 # years-completed = calendar years in which you completed the challenge
 
+- name: tam kien duong
+  link: https://11d.im/
+  note: (French 🇫🇷)
+  date-last-completed: October 2026
+  completions: 1
+  years-completed: 2026
+
 - name: Emma Goto
   link: https://www.emgoto.com
   date-last-completed: July 2026
